@@ -1,4 +1,3 @@
-GitHub README Format - Active Directory + Splunk SOC Homelab
 # Active Directory + Splunk SOC Homelab
 
 This project is a beginner SOC analyst homelab built in VMware Workstation. The goal was to create a small business-style Windows domain environment and connect it to Splunk so Windows security logs could be collected, searched, and used for basic detections.
